@@ -1,0 +1,18 @@
+# excludes folders
+.idea/
+.settings/
+.vscode/
+logs/
+target/
+__pycache__/
+.clover/
+
+# excludes protobuf generated class files
+
+
+# excludes files made from compile options
+*.classpath
+*.factorypath
+*.project
+*.iml
+*.pyc
